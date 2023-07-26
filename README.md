@@ -5,7 +5,7 @@ To write a python program for getting the word count from a text.
 PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
-### Step 1: Prompt the user to enter the name of the file they want to analyze for word count.
+### Step 1: Prompt the user to enter the name of the file they want to analyze for word count
 
 ### Step 2: Initialize a variable to store the total word count and open the specified file in read mode.
  
